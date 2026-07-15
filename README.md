@@ -39,7 +39,6 @@ Investigates the relationship between specific learning habits, previous failure
 ## Repository Structure
 *   `/data`: Raw dataset used for analysis.
 *   `/docs`: Detailed project documentation and design specifications.
-*   `/images`: Visual assets and dashboard screenshots used in documentation.
 
 
 ## Built With
